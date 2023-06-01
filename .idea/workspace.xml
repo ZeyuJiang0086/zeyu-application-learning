@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
+    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="first change from intellij to Github">
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2QaAghdRWcx2jMYkpNO1cFI5mu4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +68,21 @@
       <option name="presentableId" value="Default" />
       <updated>1685581431458</updated>
     </task>
+    <task id="LOCAL-00001" summary="first change from intellij to Github">
+      <created>1685585211044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685585211044</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first change from intellij to Github">
+      <created>1685593564549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685593564549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first change from intellij to Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="first change from intellij to Github" />
   </component>
 </project>
