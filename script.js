@@ -10,4 +10,7 @@ catch(err){
     document.getElementById("demo").innerHTML = err.message;
 }
 
-
+function printInput(){
+    let message = document.getElementById("userInput").value;
+    replaceContentById("demo",message);
+}
