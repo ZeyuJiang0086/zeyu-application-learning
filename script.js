@@ -1,1 +1,6 @@
-document.getElementById("demo").innerHTML = "this is a JS funciton"
+function replaceContent(value){
+    document.getElementById("demo").innerHTML = value;
+}
+
+replaceContent("Zeyu+");
+
