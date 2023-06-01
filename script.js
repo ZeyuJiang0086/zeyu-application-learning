@@ -1,6 +1,13 @@
-function replaceContent(value){
-    document.getElementById("demo").innerHTML = value;
+function replaceContentById(id,value){
+    document.getElementById(id).innerHTML = value;
 }
 
-replaceContent("Zeyu+");
+try{
+    replaceContentById("demo","Zeyu+");
+    replaceContentById("demo2","Qiutong");
+}
+catch(err){
+    document.getElementById("demo").innerHTML = err.message;
+}
+
 
