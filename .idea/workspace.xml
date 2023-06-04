@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="create a message module">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="try the javascript for module" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <workItem from="1685621329885" duration="1989000" />
       <workItem from="1685763847497" duration="220000" />
       <workItem from="1685764415392" duration="110000" />
-      <workItem from="1685764526556" duration="1297000" />
+      <workItem from="1685764526556" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="first change from intellij to Github">
       <created>1685585211044</created>
@@ -148,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685838737065</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="try the javascript for module">
+      <created>1685839124435</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685839124435</updated>
+    </task>
+    <task id="LOCAL-00012" summary="try the javascript for module">
+      <created>1685839133559</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685839133559</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +181,8 @@
     <MESSAGE value="added user input layout" />
     <MESSAGE value="create a sample module file called person" />
     <MESSAGE value="create a message module" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a message module" />
+    <MESSAGE value="try the javascript for module" />
+    <option name="LAST_COMMIT_MESSAGE" value="try the javascript for module" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
