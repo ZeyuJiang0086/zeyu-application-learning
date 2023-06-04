@@ -15,3 +15,13 @@ function printInput(){
     replaceContentById("demo",message);
 }
 
+/*
+create two demos to try module
+ */
+
+import {name,age} from "./person.js";
+let text = "sample test" + name + age;
+document.getElementById("demo3").innerHTML = text;
+
+import message from "./message.js";
+document.getElementById("demo4").innerHTML = message();
