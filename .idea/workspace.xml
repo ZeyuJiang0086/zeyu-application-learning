@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="added user input layout">
-      <change afterPath="$PROJECT_DIR$/person.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="create a sample module file called person">
+      <change afterPath="$PROJECT_DIR$/message.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +68,7 @@
       <workItem from="1685621329885" duration="1989000" />
       <workItem from="1685763847497" duration="220000" />
       <workItem from="1685764415392" duration="110000" />
-      <workItem from="1685764526556" duration="640000" />
+      <workItem from="1685764526556" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="first change from intellij to Github">
       <created>1685585211044</created>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685623203424</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="create a sample module file called person">
+      <created>1685838417401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685838417401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create a sample module file called person">
+      <created>1685838425064</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685838425064</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +148,8 @@
     <MESSAGE value="1. added java script file&#10;2. added first java script function to replace content" />
     <MESSAGE value="change the function to allow input element id." />
     <MESSAGE value="added user input layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="added user input layout" />
+    <MESSAGE value="create a sample module file called person" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a sample module file called person" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

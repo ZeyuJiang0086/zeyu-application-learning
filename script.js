@@ -14,3 +14,4 @@ function printInput(){
     let message = document.getElementById("userInput").value;
     replaceContentById("demo",message);
 }
+
