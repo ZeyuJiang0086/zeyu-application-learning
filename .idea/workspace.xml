@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17055781-86de-4cc0-90f1-8eea2979953f" name="Changes" comment="added user input layout">
+      <change afterPath="$PROJECT_DIR$/person.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +48,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/zeyu/IdeaProjects/zeyu-application-learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,6 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1685581431458</updated>
       <workItem from="1685621329885" duration="1989000" />
+      <workItem from="1685763847497" duration="220000" />
+      <workItem from="1685764415392" duration="110000" />
+      <workItem from="1685764526556" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="first change from intellij to Github">
       <created>1685585211044</created>
